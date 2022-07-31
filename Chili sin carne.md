@@ -1,18 +1,18 @@
 # Zutaten
-200 g Sojahack
-400 g Dosentomaten
-200 g Süssmais
-400 g Kidneybohnen
-(400 g weisse Bohnen)
-1 Zwiebel
-2 EL Tomatenpüree
-200 g Karotten in kleine Stücke geschnitten
-Chilipulver oder frische Chili
-1 dL Rotwein
-etwas Gemüsebrühepulver
-etwas Zitronensaft
-etwas Kreuzkümmel gemahlen
-2 EL Olivenöl
+- 200 g Sojahack
+- 400 g Dosentomaten
+- 200 g Süssmais
+- 400 g Kidneybohnen
+- (400 g weisse Bohnen)
+- 1 Zwiebel
+- 2 EL Tomatenpüree
+- 200 g Karotten in kleine Stücke geschnitten
+- Chilipulver oder frische Chili
+- 1 dL Rotwein
+- etwas Gemüsebrühepulver
+- etwas Zitronensaft
+- etwas Kreuzkümmel gemahlen
+- 2 EL Olivenöl
 
 
 # Zubereitung
