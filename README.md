@@ -1,5 +1,3 @@
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
 Willkommen in diesem kleinen Dokumentationsprojekt zu einigen unserer Lieblingsmenüs & Essenspläne. Die Rezepte sollen gesund sein und möglichst innerhalb von gegenwärtigen Empfehlungen von Ernährungsexperten sein ^[hauptsächlich gemäss https://eatforum.org/content/uploads/2019/07/EAT-Lancet_Commission_Summary_Report.pdf und https://eatforum.org/].
 
 Natürlich kann man auch hin und wieder ein Cheat-Essen (bei uns weniger als 1 mal pro Woche) einplanen.
@@ -25,3 +23,7 @@ Frei austausch- und anpassbare Vorschläge. Mehr Sterne bedeutet mehr Aufwand. D
 13. [Couscous-Salat](https://www.chefkoch.de/rezepte/562321154438233/Couscous-Salat-lecker-wuerzig.html) *
 14. Tomatensuppe mit frischen Kräutern und Vollkornbrot*
 15. [Pilzrisotto mit grünem Salat ](https://www.kostenlose-rezepte.eu/rezept-Pilzrisotto-mit-buntem-Salat-745.html)**
+
+
+---
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
