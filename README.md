@@ -1,18 +1,18 @@
-Willkommen in diesem kleinen Dokumentationsprojekt zu einigen unserer Lieblingsmenüs & Essenspläne. Die Rezepte sollen gesund sein und möglichst innerhalb von gegenwärtigen Empfehlungen von Ernährungsexperten sein (hauptsächlich gemäss https://eatforum.org/content/uploads/2019/07/EAT-Lancet_Commission_Summary_Report.pdf und https://eatforum.org/).
+Willkommen in diesem kleinen Dokumentationsprojekt zu einigen unserer Lieblingsmenüs & Essenspläne. Die Rezepte sollen gesund und möglichst innerhalb der gegenwärtigen Empfehlungen von Ernährungsexperten sein (hauptsächlich gemäss https://eatforum.org/content/uploads/2019/07/EAT-Lancet_Commission_Summary_Report.pdf und https://eatforum.org/).
 
-Natürlich kann man auch hin und wieder ein Cheat-Essen (bei uns weniger als 1 mal pro Woche) einplanen.
+Natürlich kann man auch hin und wieder ein Cheat-Essen (bei uns ca. 1 mal pro Woche) einplanen.
 
 # Tagesplan
 - **Frühstück:** Haferschleim oder [Fruchtiges Müsli](Fruchtiges%20Müsli.md) (mit Haferflocken), am Wochenende auch mal (Vollkorn)pfannkuchen mit Käse, Lachs und Avocado.
 - **Mittagessen:** Gemäss Rezeptliste unten.
-- **Abendessen:** Resten.
+- **Abendessen:** Reste.
 
 # 14-Tage Rezeptliste
-Frei austausch- und anpassbare Vorschläge. Mehr Sterne bedeutet mehr Aufwand. Die Rezepte wiederholen sich dementsprechend alle 14 Tage.
+Frei austausch- und anpassbare Vorschläge. Mehr Sterne bedeutet mehr Aufwand. Die Rezepte wiederholen sich dementsprechend ca. alle zwei Wochen.
 1. [Chili sin carne](Chili%20sin%20carne.md) *
 2. [Ratatouille mit Vollkornpasta](Ratatouille%20mit%20Vollkornpasta.md) *
 3. [Rot geschmorte Auberginen](Rot%20geschmorte%20Auberginen.md) mit Vollkornbasmatireis. ** Optional mit [Mapo Doufu](Mapo%20Doufu.md) ***
-4. [Lasagne mit Aubeginen, Paprika, Pilzen und Zucchini](https://www.lecker.de/gemueselasagne-9239.html) **
+4. [Lasagne mit Auberginen, Paprika, Pilzen und Zucchini](https://www.lecker.de/gemueselasagne-9239.html) **
 5. [Salat riche](Salat%20riche.md) *
 6. [Ofengemüse mit Lachs](Ofengemüse%20mit%20Lachs%20&%20Hummus.md) * und [Hummus](Hummus.md) *
 7. [Curry mit Broccholi, Erbsen](https://www.zentrum-der-gesundheit.de/rezepte/hauptgerichte/currys/currygericht-brokkoli) **
